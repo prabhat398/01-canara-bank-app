@@ -6,4 +6,8 @@ int b = 20;
 
 String name = "java";
 
+
+
+int i =100;
+
 }
