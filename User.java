@@ -1,5 +1,10 @@
 Class User { 
 
+// JIRA -102
+void m2() {
+
+}
+
 
 int a =10;
 int b = 20;
